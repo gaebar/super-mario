@@ -1,4 +1,4 @@
-import Compositor from './Compositor.js/index.js';
+import Compositor from './Compositor.js';
 import { loadLevel } from './loaders.js';
 import { loadMarioSprite, loadBackgroundSprites } from './sprites.js';
 import { createBackgroundLayer } from './layers.js';
