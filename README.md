@@ -11,3 +11,5 @@ This project is built following the YouTube series [Code Super Mario in JS](http
 * Run `npm install`.
 * Run `npm start`.
 * Go to `http://localhost:5000`.
+
+![super_mario_bros-game](public/img/super_mario_bros.png)
